@@ -5,7 +5,7 @@ decoher.enable()
 
 # Test 1: Syntax Error
 print("Test 1: Syntax Error")
-eval("1+2+3")
+eval("1+2+3+")
 
 # Test 2: Indentation Error
 print("\nTest 2: Indentation Error")
